@@ -7,7 +7,7 @@ Axiorix simplifie l’intelligence artificielle : cas concrets, sans jargon ni c
 
 ## 👥 L'équipe derrière AXIORIX
 Chez **AXIORIX**, nous allions **20 ans d’expertise terrain** et la maîtrise de l’IA pour libérer du temps aux PME suisses.  
-Pas des geeks enfermés, mais des pros de terrain capables de transformer la technologie en résultats concrets.
+Des professionnels ancrés dans la réalité, capables de rendre l’IA utile et mesurable.
 
 ---
 

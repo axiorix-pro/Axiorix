@@ -30,4 +30,4 @@ Des professionnels ancrés dans la réalité, capables de rendre l’IA utile et
 
 ## 🌐 Contact
 🔗 Site web : [www.axiorix.com](https://www.axiorix.com)  
-📧 Email : info@axiorix.com 
+

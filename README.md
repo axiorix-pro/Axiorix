@@ -1,11 +1,11 @@
-# 🚀 Axiorix
+# 💎 Axiorix
 
 **Formations IA pratiques pour PME suisses**  
 Axiorix simplifie l’intelligence artificielle : cas concrets, sans jargon ni code, adaptés à votre activité.
 
 ---
 
-## 👥 L'équipe derrière AXIORIX
+## 🧑‍💼 L'équipe derrière AXIORIX
 Chez **AXIORIX**, nous allions **20 ans d’expertise terrain** et la maîtrise de l’IA pour libérer du temps aux PME suisses.  
 Des professionnels ancrés dans la réalité, capables de rendre l’IA utile et mesurable.
 
@@ -21,7 +21,7 @@ Des professionnels ancrés dans la réalité, capables de rendre l’IA utile et
 
 ---
 
-## 🎯 Notre promesse
+## 📊 Notre promesse
 1. Comprendre vos enjeux  
 2. Déployer l’IA la plus pertinente  
 3. Vous rendre autonomes et performants  

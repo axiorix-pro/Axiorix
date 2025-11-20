@@ -1,33 +1,23 @@
-# 💎 Axiorix
+# AXIORIX
 
-**Formations IA pratiques pour PME suisses**  
-Axiorix simplifie l’intelligence artificielle : cas concrets, sans jargon ni code, adaptés à votre activité.
+Intégration IA pour PME industrielles – Suisse Romande
 
----
+## Stack & Approche
 
-## 🧑‍💼 L'équipe derrière AXIORIX
-Chez **AXIORIX**, nous allions **20 ans d’expertise terrain** et la maîtrise de l’IA pour libérer du temps aux PME suisses.  
-Des professionnels ancrés dans la réalité, capables de rendre l’IA utile et mesurable.
+- Déploiement souverain conforme LPD
+- Transfert de compétences opérationnel
+- 20 ans expérience industrie technique B2B
 
----
+## Méthodologie
 
-## ❓ Pourquoi AXIORIX ?
-- **Expertise duale** : croissance commerciale & IA avancée  
-- **Impact direct** : vos équipes se concentrent enfin sur l’essentiel  
-- **Approche sur-mesure** : pas de “one-size-fits-all”  
-- **Autonomie garantie** : transfert de compétences, vos équipes gardent la main  
+1. Audit environnement métier
+2. Déploiement IA sur infrastructure contrôlée
+3. Formation autonomie équipes internes
 
-> “La technologie n’est puissante que si elle sert une stratégie claire.”
+## Contact
 
----
-
-## 📊 Notre promesse
-1. Comprendre vos enjeux  
-2. Déployer l’IA la plus pertinente  
-3. Vous rendre autonomes et performants  
-
----
-
-## 🌐 Contact
-🔗 Site web : [www.axiorix.com](https://www.axiorix.com)  
-
+| Type | Valeur |
+|------|--------|
+| Zone | Suisse Romande |
+| Web | [axiorix.com](https://axiorix.com) |
+| Code | Repos GitHub publics |

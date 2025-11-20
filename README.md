@@ -1,6 +1,6 @@
 # AXIORIX
 
-Intégration IA pour PME industrielles – Suisse Romande
+Formation et intégration IA pour PME – Suisse Romande
 
 ## Stack & Approche
 
